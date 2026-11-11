@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción Interactiva",
+  "description": "Plataforma de seguimiento y aprendizaje del proceso de inducción SENA: identidad institucional, normativa, reglamento del aprendiz, cuestionarios interactivos y simulador de casos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
